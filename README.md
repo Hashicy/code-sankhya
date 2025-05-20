@@ -2,8 +2,6 @@
 
 Code Sankhya is an AI-powered code explainer that breaks down code line-by-line in plain English. Designed especially for CP (Competitive Programming) learners, it helps users understand complex logic and structure effortlessly.
 
-![Code Sankhya Banner](https://your-image-link-if-you-have-one.com)
-
 ---
 
 ## 🚀 Features
