@@ -7,9 +7,8 @@ Code Sankhya is an AI-powered code explainer that breaks down code line-by-line 
 ## 🚀 Features
 
 - ✨ **Line-by-line Code Explanation**
-- 🧮 **Complexity Analysis** (coming soon)
-- 🐞 **Bug Finder & Fix Suggestions** (coming soon)
-- 📊 **Flowchart Generator** (coming soon)
+- 🧮 **Complexity Analysis** 
+- 📊 **Pattern Analyzer** (coming soon)
 - 🔁 Supports **Python**, **C/C++**, **Java**, and more (planned)
 
 ---
